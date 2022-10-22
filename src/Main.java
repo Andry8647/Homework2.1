@@ -84,6 +84,7 @@ public class Main {
         double yearNewKristina = (newKristina - kristina) * 12;
         System.out.println("Маша теперь получает " + newMasha + " рублей. Годовой доход вырос на " + yearNewMasha + " рублей");
         System.out.println("Денис теперь получает " + newDenis + " рублей. Годовой доход вырос на " + yearNewDenis + " рублей");
+
         System.out.println("Кристина теперь получает " + newKristina + " рублей. Годовой доход вырос на " + yearNewKristina + " рублей");
             }
 }
